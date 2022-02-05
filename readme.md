@@ -1,1 +1,2 @@
-# USF Scheduele - Web/App Dev Honors
+# USFScheduele - Web/App Dev Honors - Team Project
+Created on CodeSandbox
